@@ -150,6 +150,9 @@ text-align: center;
   .navbar-links li a{
     padding:.5rem 1rem;
   }
+  .navbar-links.active{
+    display:flex;
+  }
   p{
   text-align:left;
   margin:auto;
