@@ -15,7 +15,7 @@ body{
     background-image: linear-gradient(to top, #ff99c8 20%, #f15bb5 60%);  
 color: #666666;
 margin: 0;
-text-shadow: -1px 0px 2px #5f0f40;
+text-shadow: -1px 0px 2px #3d405b;
 }
 
 nav{ 
@@ -79,7 +79,7 @@ footer{
 padding: 1em;
 text-align: center;
   color:black;
- text-shadow: -1px 0px 2px #778da9;
+ text-shadow: -1px 0px 2px #3d405b;
   margin:0; 
   border-top: 1px solid black;
 }
