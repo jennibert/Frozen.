@@ -12,7 +12,7 @@ body{
   flex-direction:column;
   box-sizing:inherit;
    font-family: "Chakra Petch", sans-serif;
-    background-image: linear-gradient(to top, #A42384 20%, #f15bb5 60%);  
+    background-image: linear-gradient(to top, #ff99c8 20%, #f15bb5 60%);  
 color: #666666;
 margin: 0;
 text-shadow: -1px 0px 2px #5f0f40;
