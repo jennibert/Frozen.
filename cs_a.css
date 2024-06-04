@@ -163,7 +163,7 @@ text-align: center;
 
 @media (max-width:450px) {
   p{
-  text-align:left;
+  text-align:center;
   margin:auto;
   width:90%;
   font-family: "Chakra Petch", sans-serif;
